@@ -1,0 +1,6 @@
+#Construir gráficos(matplotlib)
+#Automação (Control)
+#Pesquisa operacional (pulP)
+#Ciência de dados (Pandas)
+#Arduíno com Python (pyfirmata)
+#Computação numérica (NumPy)
